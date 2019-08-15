@@ -1,4 +1,3 @@
-# VietAI Foundation Machine Learning Class 05
- - Week 1:
-   - Ôn tập kiến thức toán (linear algebra, probability, calculus)
-   - Lập trình Python & Numpy 
+# Week 1:
+- Ôn tập kiến thức toán: 
+  - Tham khảo: http://tutorial.math.lamar.edu/
